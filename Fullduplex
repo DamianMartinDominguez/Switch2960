@@ -1,0 +1,4 @@
+interface GigabitEthernet0/1
+ media-type rj45
+ speed 1000
+ duplex full
